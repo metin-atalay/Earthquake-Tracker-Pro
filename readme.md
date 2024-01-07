@@ -6,13 +6,13 @@ Earthquake Tracker Pro is committed to ensuring the privacy and security of our 
 
 **Information Collection and Use**
 
-- We may collect certain information when you use our app, including but not limited to [list specific types of data collected, e.g., device information, location, usage statistics].
-- This data is used to [explain the purpose of collecting each type of data, e.g., improve user experience, provide personalized content].
+- We may collect certain information when you use our app, including but not limited to device information, location, usage statistics.
+- This data is used to improve user experience, provide personalized content.
 - We do not sell or share this information with third parties except as outlined in this Privacy Policy.
 
 **Data Sharing**
 
-- We may share your information in the following circumstances: [list situations where data might be shared, e.g., with service providers or for legal purposes].
+- We may share your information in the following circumstances: with service providers or for legal purposes.
 - We may also disclose information if required by law or to protect our rights or the rights of others.
 
 **Security**
@@ -22,7 +22,7 @@ Earthquake Tracker Pro is committed to ensuring the privacy and security of our 
 
 **User Rights**
 
-- You have the right to [explain users' rights, e.g., access, correct, or delete personal information].
+- You have the right to access, correct, or delete personal information.
 - If you have any questions or requests regarding your data, please contact us at tr.metin.atalay@gmail.com
 
 **Changes to Privacy Policy**
@@ -35,7 +35,6 @@ By accessing and using Earthquake Tracker Pro, you agree to abide by the followi
 
 - Users must comply with all applicable laws and regulations.
 - Users are responsible for maintaining the confidentiality of their account information.
-- Prohibited activities include [list actions or behaviors not allowed on the platform].
 
 **Governing Law**
 
